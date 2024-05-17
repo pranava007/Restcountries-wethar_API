@@ -28,18 +28,23 @@
 
 .card img{
    
-    width: 300px;
-    position: relative;
-    left: 60px;
-    top: 15px;
+    /* width: 300px; */
+    /* position: relative;
+    left: 60px; */
+    /* top: 15px; */
+    align-self: center;
+    justify-content: center;
+    
+    /* text-align: center; */
 
 }
 
 .card button{
-    position: relative;
+    /* position: relative;
     bottom: 30px;
     width: 150px;
-    left: 135px;
+    left: 135px; */
+    align-self: center;
     background-image: linear-gradient(to right,rgb(221,202,163),rgb(67,85,90));
     color: white;
     border: solid 1px ;
